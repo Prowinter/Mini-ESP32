@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [ESP32_Pico.PrjPcb]
+   Generated File[ESP32-Pico-RoundHoles.TXT]
+   Generated File[ESP32-Pico-SlotHoles.TXT]
+   Generated File[ESP32-Pico.LDP]
+   Generated File[ESP32-Pico.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 13:07:49 On 2021/10/9
